@@ -4,4 +4,4 @@ def say_hello(name):
 
 if __name__ == '__main__':
     name = input("What's your name ?: ")
-    say_hello(name)
+    #sayhelloを呼び出すためにはどうしたらよいでしょう？
